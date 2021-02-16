@@ -1,4 +1,4 @@
-#STARS-Application
+# STARS-Application
 
 A STudent Automated Registration System (STARS) that resembles NTU's course registration system 
 
