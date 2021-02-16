@@ -3,6 +3,7 @@
 A STudent Automated Registration System (STARS) that resembles NTU's course registration system 
 
 Functional Requirements:
+
 Student (Access is only allowed within pre-defined period)
 1. Add Course
 2. Drop Course
